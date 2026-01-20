@@ -7,12 +7,17 @@ status: em-andamento
 ---
 
 ## 🎯 Objetivos do Capítulo
-- Compreender o sistema de módulos do Java.
+- Reorganizar o estudo de módulos conforme o sumário detalhado.
 
 ## 📌 Conceitos Principais
-- Arquivo `module-info.java` e diretivas (`requires`, `exports`, `opens`).
-- Caminho de módulos vs caminho de classe.
-- Serviços (`provides`, `uses`).
+ - Introducing Modules
+ - Creating and Running a Modular Program
+ - Updating Our Example for Multiple Modules
+ - Diving into the Module Declaration
+ - Creating a Service
+ - Discovering Modules
+ - Comparing Types of Modules
+ - Migrating an Application
 
 ## 💡 Pontos Importantes para a Prova
 - Regras de acessibilidade entre módulos.

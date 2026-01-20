@@ -7,12 +7,15 @@ status: em-andamento
 ---
 
 ## 🎯 Objetivos do Capítulo
-- Entender interfaces, enumerações e nested classes.
+- Seguir o sumário para estudar recursos além de classes tradicionais.
 
 ## 📌 Conceitos Principais
-- Interfaces, métodos default e static.
-- Enums com campos e métodos.
-- Classes internas, locais e anônimas.
+- Implementing Interfaces
+- Working with Enums
+- Sealing Classes
+- Encapsulating Data with Records
+- Creating Nested Classes
+- Understanding Polymorphism
 
 ## 💡 Pontos Importantes para a Prova
 - Regras de implementação múltipla de interfaces.

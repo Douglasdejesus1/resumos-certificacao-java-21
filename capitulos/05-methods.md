@@ -7,12 +7,16 @@ status: em-andamento
 ---
 
 ## 🎯 Objetivos do Capítulo
-- Escrever e invocar métodos com assinaturas corretas.
+- Estruturar o estudo de métodos conforme o sumário e praticar assinaturas e acesso.
 
 ## 📌 Conceitos Principais
-- Assinatura, sobrecarga e varargs.
-- Passagem por valor de referências.
-- Encapsulamento e visibilidade.
+- Designing Methods
+- Declaring Local and Instance Variables
+- Working with Varargs
+- Applying Access Modifiers
+- Accessing Static Data
+- Passing Data among Methods
+- Overloading Methods
 
 ## 💡 Pontos Importantes para a Prova
 - Regras de resolução de sobrecarga com varargs.

@@ -7,12 +7,18 @@ status: em-andamento
 ---
 
 ## 🎯 Objetivos do Capítulo
-- Trabalhar com coleções, generics e utilitários de coleção.
+- Seguir o sumário para revisar coleções e generics de forma alinhada ao exame.
 
 ## 📌 Conceitos Principais
-- `List`, `Set`, `Map` e suas implementações.
-- Generics: limites (`extends`, `super`), type inference, erasure.
-- Métodos utilitários (`Collections`, `List.of`, `Map.of`).
+- Using Common Collection APIs
+- Using the List Interface
+- Using the Set Interface
+- Using the Queue and Deque Interfaces
+- Using the Map Interface
+- Sorting Data
+- Introducing Sequenced Collections
+- Reviewing Collection Types
+- Working with Generics
 
 ## 💡 Pontos Importantes para a Prova
 - Diferença entre coleções mutáveis e imutáveis.

@@ -7,12 +7,19 @@ status: em-andamento
 ---
 
 ## 🎯 Objetivos do Capítulo
-- Consolidar sintaxe básica do Java e organização de arquivos.
+- Mapear os tópicos fundamentais do capítulo e alinhar estudo aos itens do sumário oficial.
 
 ## 📌 Conceitos Principais
-- Estrutura de classes, métodos `main`, pacotes.
-- Tipos primitivos e referências.
-- Comentários, importações e convenções.
+- Learning About the Environment
+- Understanding the Class Structure
+- Writing a main() Method
+- Understanding Package Declarations and Imports
+- Creating Objects
+- Understanding Data Types
+- Declaring Variables
+- Initializing Variables
+- Managing Variable Scope
+- Destroying Objects
 
 ## 💡 Pontos Importantes para a Prova
 - Diferenciar escopo de variáveis locais, de instância e estáticas.

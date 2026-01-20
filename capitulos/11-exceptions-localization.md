@@ -7,12 +7,16 @@ status: em-andamento
 ---
 
 ## 🎯 Objetivos do Capítulo
-- Tratar exceções e aplicar recursos de localização.
+- Alinhar o estudo de exceções e localização aos itens do sumário.
 
 ## 📌 Conceitos Principais
-- Hierarquia de exceções (`Exception`, `RuntimeException`, `Error`).
-- `try-with-resources` e `AutoCloseable`.
-- `Locale`, `ResourceBundle`, formatação com `NumberFormat` e `DateTimeFormatter`.
+- Understanding Exceptions
+- Recognizing Exception Classes
+- Handling Exceptions
+- Automating Resource Management
+- Formatting Values
+- Supporting Internationalization and Localization
+- Loading Properties with Resource Bundles
 
 ## 💡 Pontos Importantes para a Prova
 - Ordem de `catch` e unreachable code.

@@ -7,12 +7,14 @@ status: em-andamento
 ---
 
 ## 🎯 Objetivos do Capítulo
-- Aplicar lambdas, method references e interfaces funcionais.
+- Reestruturar o estudo de lambdas conforme os tópicos do sumário.
 
 ## 📌 Conceitos Principais
-- Sintaxe de lambdas e escopo.
-- Interfaces funcionais da API (`Predicate`, `Function`, etc.).
-- Method references e constructors references.
+- Writing Simple Lambdas
+- Coding Functional Interfaces
+- Using Method References
+- Working with Built-in Functional Interfaces
+- Working with Variables in Lambdas
 
 ## 💡 Pontos Importantes para a Prova
 - Regras de efetivamente final em lambdas.

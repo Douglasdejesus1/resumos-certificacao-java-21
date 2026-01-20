@@ -7,12 +7,13 @@ status: em-andamento
 ---
 
 ## 🎯 Objetivos do Capítulo
-- Utilizar a Stream API para processamento declarativo.
+- Estruturar o estudo de streams com base nos tópicos do sumário.
 
 ## 📌 Conceitos Principais
-- Criação de streams (coleções, arrays, factories).
-- Operações intermediárias vs terminais.
-- Streams paralelas e considerações de performance.
+- Returning an Optional
+- Using Streams
+- Working with Primitive Streams
+- Working with Advanced Stream Pipeline Concepts
 
 ## 💡 Pontos Importantes para a Prova
 - Propriedades de pipeline (sem estado, não interferência).

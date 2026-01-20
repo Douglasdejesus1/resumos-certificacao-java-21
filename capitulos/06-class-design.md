@@ -7,12 +7,16 @@ status: em-andamento
 ---
 
 ## 🎯 Objetivos do Capítulo
-- Modelar classes com herança, composição e encapsulamento adequados.
+- Reorganizar o estudo de design de classes seguindo o sumário do exame.
 
 ## 📌 Conceitos Principais
-- Herança, `super`, construtores e ordem de inicialização.
-- Classes seladas (`sealed`), finais e abstratas.
-- Records e quando usá-los.
+- Understanding Inheritance
+- Creating Classes
+- Declaring Constructors
+- Initializing Objects
+- Inheriting Members
+- Creating Abstract Classes
+- Creating Immutable Objects
 
 ## 💡 Pontos Importantes para a Prova
 - Regras de acesso a membros em hierarquias.

@@ -7,12 +7,15 @@ status: em-andamento
 ---
 
 ## 🎯 Objetivos do Capítulo
-- Dominar operadores aritméticos, relacionais, lógicos e de atribuição.
+- Cobrir os operadores conforme a trilha do sumário e praticar casos típicos de prova.
 
 ## 📌 Conceitos Principais
-- Precedência e associatividade.
-- Operadores de incremento/decremento.
-- Operador ternário e conversões.
+- Understanding Java Operators
+- Applying Unary Operators
+- Working with Binary Arithmetic Operators
+- Assigning Values
+- Comparing Values
+- Making Decisions with the Ternary Operator
 
 ## 💡 Pontos Importantes para a Prova
 - Diferença entre `==` e `equals` para objetos.

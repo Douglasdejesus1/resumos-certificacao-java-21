@@ -7,12 +7,14 @@ status: em-andamento
 ---
 
 ## 🎯 Objetivos do Capítulo
-- Entender fluxos condicionais e escolha múltipla.
+- Reorganizar os tópicos de decisão segundo o sumário oficial e praticar fluxos de controle.
 
 ## 📌 Conceitos Principais
-- `if/else` e escopo de blocos.
-- `switch` com tipos modernos (String, enum, int, sealed classes).
-- Expressões `switch` com `yield`.
+- Creating Decision-Making Statements
+- Building switch Statements and Expressions
+- Writing while Loops
+- Constructing for Loops
+- Controlling Flow with Branching
 
 ## 💡 Pontos Importantes para a Prova
 - Regras de compatibilidade de tipos em `switch`.

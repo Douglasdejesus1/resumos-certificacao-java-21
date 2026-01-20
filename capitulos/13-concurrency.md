@@ -7,12 +7,15 @@ status: em-andamento
 ---
 
 ## 🎯 Objetivos do Capítulo
-- Aplicar APIs de concorrência moderna e clássica.
+- Estruturar o estudo de concorrência segundo os tópicos do sumário.
 
 ## 📌 Conceitos Principais
-- `Runnable`, `Callable`, `ExecutorService`.
-- Sincronização, locks, atomics.
-- Virtual threads (Project Loom) e executores por thread.
+- Introducing Threads
+- Creating Threads with the Concurrency API
+- Writing Thread-Safe Code
+- Using Concurrent Collections
+- Identifying Threading Problems
+- Working with Parallel Streams
 
 ## 💡 Pontos Importantes para a Prova
 - Ciclo de vida de `ExecutorService` (submit, shutdown).

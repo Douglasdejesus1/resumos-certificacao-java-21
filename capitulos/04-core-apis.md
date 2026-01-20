@@ -7,12 +7,15 @@ status: em-andamento
 ---
 
 ## 🎯 Objetivos do Capítulo
-- Reforçar manipulação de strings, datas, wrappers e arrays.
+- Seguir o sumário para revisar APIs centrais e suas operações-chave.
 
 ## 📌 Conceitos Principais
-- `String`, `StringBuilder` e imutabilidade.
-- `LocalDate`, `LocalTime`, `LocalDateTime`, `Period`, `Duration`.
-- Classes wrapper e autoboxing.
+- Creating and Manipulating Strings
+- Using the StringBuilder Class
+- Understanding Equality
+- Understanding Arrays
+- Calculating with Math APIs
+- Working with Dates and Times
 
 ## 💡 Pontos Importantes para a Prova
 - Operações que criam novas instâncias vs mutáveis.
